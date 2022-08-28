@@ -4,3 +4,4 @@ Some of you may know lists of useful tools for developers, etc. Those are cool a
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x) - list of hundreds of already existing programs, with tutorial for a beginner to make it from scratch to better understand it
 - [Free for developers](https://free-for.dev/) - list of more than a thousand of free services for developers
 - [Couleur Tweak Tips (Discord)](https://discord.gg/rg94nUkUaj) - Discord server focused on sharing settings, tweaks, etc. about video programs, games, windows, etc.
+- [Full emoji list](https://unicode.org/emoji/charts/full-emoji-list.html) - list of all unicode emojis
