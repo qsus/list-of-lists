@@ -6,3 +6,4 @@ Some of you may know lists of useful tools for developers, etc. Those are cool a
 - [Couleur Tweak Tips (Discord)](https://discord.gg/rg94nUkUaj) - Discord server focused on sharing settings, tweaks, etc. about video programs, games, windows, etc.
 - [Full emoji list](https://unicode.org/emoji/charts/full-emoji-list.html) - list of all unicode emojis
 - [PussTheCat](https://pussthecat.org/) - proxies for popular websites such as YouTube, Reddit, Twitter, Google Translate, etc. without tracking
+- [Discord Exploit Colletion](https://github.com/ecriminal/Discord-Exploit-Collection) - list of bugs in Discord; don't break Discord ToS, I am not responsible for any harm made by abusing the bugs
