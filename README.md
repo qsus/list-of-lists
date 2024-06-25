@@ -8,3 +8,5 @@ Some of you may know lists of useful tools for developers, etc. Those are cool a
 - [PussTheCat](https://pussthecat.org/) - proxies for popular websites such as YouTube, Reddit, Twitter, Google Translate, etc. without tracking
 - [FOSS electrical engeneering SW](https://www.reddit.com/r/electronics/comments/ap6m45) - list of free and open source software that might be useful for people working in electronics field
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - tutorials to learn things from docker, through many programming languages, to bash or git
+- [An ever growing list of cool websites](https://mrms.cz/cool.html) - list of some cool websites
+- [My list](my.md) - my list of interesting people, websites, tools, etc.
