@@ -9,4 +9,5 @@ Some of you may know lists of useful tools for developers, etc. Those are cool a
 - [FOSS electrical engeneering SW](https://www.reddit.com/r/electronics/comments/ap6m45) - list of free and open source software that might be useful for people working in electronics field
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - tutorials to learn things from docker, through many programming languages, to bash or git
 - [An ever growing list of cool websites](https://mrms.cz/cool.html) - list of some cool websites
+- [List of ANSI color escape sequences](https://stackoverflow.com/questions/4842424/list-of-ansi-color-escape-sequences)
 - [My list](my.md) - my list of interesting people, websites, tools, etc.
