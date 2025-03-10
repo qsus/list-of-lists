@@ -12,3 +12,4 @@ Some of you may know lists of useful tools for developers, etc. Those are cool a
 - [An ever growing list of cool websites](https://mrms.cz/cool.html) - list of some cool websites
 - [List of ANSI color escape sequences](https://stackoverflow.com/questions/4842424/list-of-ansi-color-escape-sequences)
 - [My list](my.md) - my list of interesting people, websites, tools, etc.
+- [České soutěže](https://github.com/qsus/ceske-souteze/) (Czech only) - seznam některých soutěží v Česku zejména pro středoškoláky
