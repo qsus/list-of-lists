@@ -11,5 +11,8 @@ Sometimes I stumble upon a person, website, tool, etc. that I like but do not ne
 - rebane2001 (Lyra Rebane) [website](https://rebane2001.com/) [github](https://github.com/rebane2001) - developer, archivist
 - Nicell (Nick Winans) [website](https://nick.winans.io/) [github](https://github.com/Nicell) - author of [url longener](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng/), has keyboard brand, etc.
 
+## Favourite articles
+- [How to Make Wealth](https://paulgraham.com/wealth.html) by Paul Graham
+
 ## Other
 - [0d9e](https://0d9e.tech/) - weird group with a few cool people
