@@ -13,3 +13,4 @@ Some of you may know lists of useful tools for developers, etc. Those are cool a
 - [List of ANSI color escape sequences](https://stackoverflow.com/questions/4842424/list-of-ansi-color-escape-sequences)
 - [My list](my.md) - my list of interesting people, websites, tools, etc.
 - [České soutěže](https://github.com/qsus/ceske-souteze/) (Czech only) - seznam některých soutěží v Česku zejména pro středoškoláky
+- [awesome-privacy](https://github.com/pluja/awesome-privacy) - list of privacy friendly software
