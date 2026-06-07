@@ -15,3 +15,4 @@ Some of you may know lists of useful tools for developers, etc. Those are cool a
 - [České soutěže](https://github.com/qsus/ceske-souteze/) (Czech only) - seznam některých soutěží v Česku zejména pro středoškoláky
 - [awesome-privacy](https://github.com/pluja/awesome-privacy) - list of privacy friendly software
 - [switching.software](https://switching.software/) - list of privacy-conscious alternatives to well-known software
+- [mff-groups](https://github.com/qsus/mff-groups/) - list of Matfyz related social groups
