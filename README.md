@@ -16,3 +16,4 @@ Some of you may know lists of useful tools for developers, etc. Those are cool a
 - [awesome-privacy](https://github.com/pluja/awesome-privacy) - list of privacy friendly software
 - [switching.software](https://switching.software/) - list of privacy-conscious alternatives to well-known software
 - [mff-groups](https://github.com/qsus/mff-groups/) - list of Matfyz related social groups
+- [awesome motherfucking website](https://github.com/lyoshenka/awesome-motherfucking-website) - collection of satire websites about web simplicity
