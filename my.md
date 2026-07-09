@@ -18,3 +18,4 @@ Sometimes I stumble upon a person, website, tool, etc. that I like but do not ne
 
 ## Other
 - [0d9e](https://0d9e.tech/) - weird group with a few cool people
+- [ggu](https://ggu.cz/) - another group of cool MFF-related people
