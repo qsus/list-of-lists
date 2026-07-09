@@ -6,6 +6,7 @@ Sometimes I stumble upon a person, website, tool, etc. that I like but do not ne
 - [Neal.fun](https://neal.fun/) - funny games, such as [The Password Game](https://neal.fun/password-game/)
 - [eieio.games](https://eieio.games/) - interesting experimental websites, such as a global caps lock or a list of all possible uuids
 - [Dis`root´](https://disroot.org/services/search) - platform providing online services based on principles of freedom, privacy, federation and decentralization
+- [https://nolog.cz/](https://nolog.cz/) (Czech) - technologický kolektiv poskytující různé online služby se zaměřením na soukromí
 
 ## Favourite people
 - Earthcomputer (Joseph Burton) [website](https://earthcomputer.net/) [github](https://github.com/Earthcomputer) - Minecraft focused developer
