@@ -11,9 +11,10 @@ Some of you may know lists of useful tools for developers, etc. Those are cool a
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - tutorials to learn things from docker, through many programming languages, to bash or git
 - [An ever growing list of cool websites](https://mrms.cz/cool.html) - list of some cool websites
 - [List of ANSI color escape sequences](https://stackoverflow.com/questions/4842424/list-of-ansi-color-escape-sequences)
-- [My list](my.md) - my list of interesting people, websites, tools, etc.
-- [České soutěže](https://github.com/qsus/ceske-souteze/) (Czech only) - seznam některých soutěží v Česku zejména pro středoškoláky
 - [awesome-privacy](https://github.com/pluja/awesome-privacy) - list of privacy friendly software
 - [switching.software](https://switching.software/) - list of privacy-conscious alternatives to well-known software
-- [mff-groups](https://github.com/qsus/mff-groups/) - list of Matfyz related social groups
 - [awesome motherfucking website](https://github.com/lyoshenka/awesome-motherfucking-website) - collection of satire websites about web simplicity
+## My lists
+- [My list](my.md) - my list of interesting people, websites, tools, etc.
+- [mff-groups](https://github.com/qsus/mff-groups/) - list of Matfyz related social groups
+- [České soutěže](https://github.com/qsus/ceske-souteze/) (Czech only) - seznam některých soutěží v Česku zejména pro středoškoláky
